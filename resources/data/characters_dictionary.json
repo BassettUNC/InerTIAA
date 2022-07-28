@@ -1,0 +1,21 @@
+{
+  "skeleton": {
+    "images": "Enemy/Enemy 06-1.png"
+  },
+  "dude0": {
+    "images": "Male/Male 01-1.png"
+  },
+  "dude1": {
+    "images": "Male/Male 03-1.png"
+  },
+  "orange_cat": {
+    "images": "Animal/Cat 01-3.png"
+  },
+  "female0": {
+    "images": "Female/Female 01-1.png"
+  },
+  "female1": {
+    "images": "Female/Female 03-1.png"
+  }
+
+}

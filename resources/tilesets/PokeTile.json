@@ -1,0 +1,14 @@
+{ "columns":80,
+ "image":"./PokeTile.png",
+ "imageheight":1280,
+ "imagewidth":2560,
+ "margin":0,
+ "name":"PokeTile",
+ "spacing":0,
+ "tilecount":3200,
+ "tiledversion":"1.9.0",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.8"
+}
